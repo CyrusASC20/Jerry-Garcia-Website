@@ -1,0 +1,17 @@
+body{
+    background: coral;
+    font-family: 'Berkshire Swash';
+}
+
+h1 {
+    color:black;
+    text-align: center;
+}
+
+strong {
+    color: green;
+}
+
+li {
+    list-style-image: url("arrow.gif");
+}
